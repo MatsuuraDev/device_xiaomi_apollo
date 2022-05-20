@@ -9,6 +9,9 @@ $(call inherit-product, device/xiaomi/sm8250-common/kona.mk)
 
 PRODUCT_SHIPPING_API_LEVEL := 30
 
+# Screen density
+TARGET_SCREEN_DENSITY := 420
+
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
