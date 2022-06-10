@@ -20,6 +20,8 @@ TARGET_RECOVERY_DEVICE_MODULES := init_xiaomi_apollon
 
 # Kernel
 TARGET_KERNEL_CONFIG := apollo_defconfig
+TARGET_KERNEL_BUILD_HOST := AGMAD-Machine
+TARGET_KERNEL_BUILD_USER := "AhmedTohamy"
 
 # OTA assert
 TARGET_OTA_ASSERT_DEVICE := apollon,apollo,apollopro
