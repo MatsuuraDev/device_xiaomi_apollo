@@ -25,7 +25,7 @@
 
 
 #
-# Copyright (C) 2021-2022 PixelPlusUI
+# Copyright (C) 2022 VoidUI Eternity Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #

@@ -13,22 +13,10 @@
   },
   {
     "repository": "vendor_xiaomi_apollon",
-    "target_path": "vendor/xiaomi/apollom"
+    "target_path": "vendor/xiaomi/apollon"
   },
   {
     "repository": "kernel_xiaomi_sm8250",
     "target_path": "kernel/xiaomi/sm8250"
-  },
-  {
-    "repository": "hardware_qcom-caf_sm8250_display",
-    "target_path": "hardware/qcom-caf/sm8250/display"
-  },
-  {
-    "repository": "hardware_qcom-caf_sm8250_media",
-    "target_path": "hardware/qcom-caf/sm8250/media"
-  },
-  {
-    "repository": "hardware_qcom-caf_sm8250_audio",
-    "target_path": "hardware/qcom-caf/sm8250/audio"
   }
 ]
