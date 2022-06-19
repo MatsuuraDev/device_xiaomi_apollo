@@ -381,6 +381,12 @@ vendor/lib64/libmmcamera_faceproc2.so
 vendor/bin/batterysecret
 vendor/etc/init/init.batterysecret.rc
 
+# Charger (HVDCP)
+vendor/bin/hvdcp_opti
+vendor/bin/init.qti.chg_policy.sh
+vendor/etc/init/vendor.qti.hardware.charger_monitor@1.0-service.rc
+vendor/etc/charger_fstab.qti
+
 # CVP
 vendor/lib64/libcvp2.so
 vendor/lib64/libcvp2_hfi.so
