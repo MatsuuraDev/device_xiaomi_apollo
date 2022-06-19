@@ -377,6 +377,10 @@ vendor/firmware/apollo_ois.prog
 vendor/lib64/libmmcamera_faceproc.so
 vendor/lib64/libmmcamera_faceproc2.so
 
+# Charger
+vendor/bin/batterysecret
+vendor/etc/init/init.batterysecret.rc
+
 # CVP
 vendor/lib64/libcvp2.so
 vendor/lib64/libcvp2_hfi.so
