@@ -29,11 +29,11 @@ TARGET_INCLUDE_STOCK_ARCORE := true
 TARGET_INCLUDE_LIVE_WALLPAPERS := true
 TARGET_SUPPORTS_QUICK_TAP  := true
 
-# Inherit from apollon device
-$(call inherit-product, device/xiaomi/apollon/device.mk)
+# Inherit from apollo device
+$(call inherit-product, device/xiaomi/apollo/device.mk)
 
-PRODUCT_NAME := aosp_apollon
-PRODUCT_DEVICE := apollon
+PRODUCT_NAME := aosp_apollo
+PRODUCT_DEVICE := apollo
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Xiaomi Mi 10T

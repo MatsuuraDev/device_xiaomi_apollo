@@ -1,4 +1,4 @@
-#  Device Tree for Xiaomi Mi 10T/Mi 10T Pro/Redmi K30S Ultra (apollon)
+#  Device Tree for Xiaomi Mi 10T/Mi 10T Pro/Redmi K30S Ultra (apollo)
 
 ## Spec Sheet
 
