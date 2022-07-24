@@ -25,7 +25,7 @@
 
 
 #
-# Copyright (C) 2022 VoidUI Eternity Project
+# Copyright (C) 2022 MatsuuraProjekt
 #
 # SPDX-License-Identifier: Apache-2.0
 #
