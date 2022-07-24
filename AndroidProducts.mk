@@ -1,13 +1,13 @@
 #
-# Copyright (C) 2022 PixelPlusUI Project
+# Copyright (C) 2022 Matsuura Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_apollon.mk
+    $(LOCAL_DIR)/aosp_apollo.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_apollon-user \
-    aosp_apollon-userdebug \
-    aosp_apollon-eng
+    blaze_apollo-user \
+    blaze_apollo-userdebug \
+    blaze_apollo-eng
