@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_apollo.mk
+    $(LOCAL_DIR)/blaze_apollo.mk
 
 COMMON_LUNCH_CHOICES := \
     blaze_apollo-user \
